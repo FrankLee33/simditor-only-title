@@ -1,0 +1,1 @@
+# simditor-only-title
